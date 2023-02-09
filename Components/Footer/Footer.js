@@ -7,7 +7,7 @@ const Footer = () => {
   <div className="flex items-center gap-2 font-sporting text-xl">
     <h1 className="bg-white text-secondary rounded-lg p-1">Gym</h1><span className="text-white">baran</span>
         </div> 
-    <p className="opacity-50">IRD Foundation<br/>We take care of your health with regular and fun exercise</p>
+    <p className="opacity-50 hover: text-white"><a className="hover:text-yellow-500" href="https://github.com/habulCoderJohnny/gym-hobe-unstoppable" target="_blank" rel="noopener noreferrer">IRD Foundation Developed by </a><br/>We take care of your health with regular and fun exercise</p>
   </div> 
   <div>
     <span className="font-bold text-white">Services</span> 
